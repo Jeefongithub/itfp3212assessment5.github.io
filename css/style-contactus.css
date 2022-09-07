@@ -31,4 +31,8 @@ a:visited
 {
 	display: grid;
 }
+form
+{
+	all: unset;
+}
 	
