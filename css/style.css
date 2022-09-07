@@ -1,0 +1,63 @@
+.orange
+{
+	color: orange;
+	text-align: center;
+}
+body
+{
+	color: white;
+}
+#computer
+{
+	text-align: center;
+}
+ul
+{
+	list-style-type: none;
+	margin: 0;
+	padding: 0;
+	overflow: hidden;
+	background-color: #333;
+	text-align: center;
+}
+li
+{
+	float: left;
+}
+li a
+{
+	display: block;
+	color: white;
+	text-align: center;
+	padding: 14px 16px;
+	text-decoration: none;
+}
+li a:hover
+{
+	background-color: #111;
+}
+a:visited
+{
+	color: purple;
+}
+body
+{
+	/*background-color: #DDE2E3;*/
+	background-image: url("https://external-content.duckduckgo.com/iu/?u=https%3A%2F%2Fi.pinimg.com%2Foriginals%2F99%2F89%2Ffd%2F9989fddb2ba58e5612a037689b35e49f.gif");
+	background-size: cover;
+}
+.footer
+{
+	color: white;
+	font-size: 8px;
+	text-align: right;
+}
+h1
+{
+	font-family: Arial, Helvetica, sans-serif;
+}
+.container
+{
+	display: grid;
+	grid-template-columns: 50% 50%;
+}
